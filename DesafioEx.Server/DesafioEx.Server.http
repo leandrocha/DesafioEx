@@ -1,0 +1,6 @@
+@DesafioEx.Server_HostAddress = http://localhost:5011
+
+GET {{DesafioEx.Server_HostAddress}}/cliente/
+Accept: application/json
+
+###

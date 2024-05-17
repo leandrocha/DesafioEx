@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioEx.Server", "DesafioEx.Server\DesafioEx.Server.csproj", "{687F4A81-DAFE-453F-9BF6-8A74C0B2ADEE}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "desafioex.client", "desafioex.client\desafioex.client.esproj", "{B0C03AB9-5B9C-41FA-8632-C791A7DAC7B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{687F4A81-DAFE-453F-9BF6-8A74C0B2ADEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687F4A81-DAFE-453F-9BF6-8A74C0B2ADEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687F4A81-DAFE-453F-9BF6-8A74C0B2ADEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687F4A81-DAFE-453F-9BF6-8A74C0B2ADEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C03AB9-5B9C-41FA-8632-C791A7DAC7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C03AB9-5B9C-41FA-8632-C791A7DAC7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C03AB9-5B9C-41FA-8632-C791A7DAC7B8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B0C03AB9-5B9C-41FA-8632-C791A7DAC7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C03AB9-5B9C-41FA-8632-C791A7DAC7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C03AB9-5B9C-41FA-8632-C791A7DAC7B8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {880F3664-E4CE-434A-BF01-D82744EC95AD}
+	EndGlobalSection
+EndGlobal

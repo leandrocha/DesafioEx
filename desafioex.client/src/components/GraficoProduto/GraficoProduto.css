@@ -1,0 +1,16 @@
+.custom_tooltip {
+    border: 1px solid grey;
+    background-color: white;
+    padding: 0.8rem 0.7rem;
+    display: flex;
+    flex-direction: column;
+    gap: 8px
+}
+
+.tooltip_title {
+    text-transform: uppercase;
+}
+
+.tooltip_label {
+    color: cornflowerblue
+}

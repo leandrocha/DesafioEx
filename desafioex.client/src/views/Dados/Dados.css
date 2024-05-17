@@ -1,0 +1,20 @@
+.dados_content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    padding: 1rem;
+    justify-items: center;
+    gap: 8px
+}
+
+.no_dados_content {
+    display: flex;
+    flex-direction:column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.no_dados_content-img {
+    width: 200px
+}

@@ -1,0 +1,19 @@
+.menu_nav {
+    background-color: midnightblue;
+}
+
+.menu_ul {
+    display: flex;
+    padding: 1rem 0px
+}
+
+.menu_link:hover {
+    background-color: #00000020;
+    
+}
+
+.menu_link {
+    padding: 1rem;
+    text-decoration: none;
+    color: white;
+}

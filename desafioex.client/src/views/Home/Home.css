@@ -1,0 +1,53 @@
+.home_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 1rem;
+    padding: 1rem
+}
+
+h1{
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem
+}
+
+button {
+    background-color: midnightblue;
+    padding: 8px 16px;
+    border-radius: 10px;
+    border: 1px solid #1f1f83;
+    color: white
+}
+
+    button:hover {
+        cursor: pointer;
+    }
+
+
+.home_content_painel {
+    display: flex;
+    width: 90%;
+    justify-content: center;
+    column-gap: 10rem;
+    align-items: center;
+}
+
+.home_content_painel_desc {
+    width: 30%;
+    justify-content: center;
+    border: 1px solid #00000020;
+    border-radius: 10px;
+    padding: 1rem;
+    line-height: 1.5rem;
+}
+
+.home_content_painel-title {
+    font-weight: 700;
+}
+
+.home_content_painel_ex {
+    line-height: 1.5rem;
+}
